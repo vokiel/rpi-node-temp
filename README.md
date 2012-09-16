@@ -13,4 +13,4 @@ See my blog post: [http://blog.vokiel.com/raspberry-pi-odczyt-temperatury-przez-
 Screen
 ==========
 
-![Screen](https://github.com/vokiel/rpi-node-temp/blob/master/screen.jpg)
+![Screen](https://raw.github.com/vokiel/rpi-node-temp/master/screen.jpg)
